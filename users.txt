@@ -1,0 +1,9 @@
+Enter username: PeersonArt
+Enter age: 18
+User saved successfully.
+
+Saved Users:
+PeersonArt - 18
+
+
+[Program finished]
